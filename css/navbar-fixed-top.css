@@ -1,0 +1,84 @@
+body {
+  /*min-height: 2000px;*/
+  padding-top: 70px;
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+  /*
+  background:url("../images/bg.jpg");
+  background-size: 100% 100%;
+  background-repeat:no-repeat;
+  background-attachment: fixed;*/
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 50px;
+  background-color: #f5f5f5;
+  margin-top:30px;
+}
+.center {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+p.minim {
+    line-height: 50px;
+}
+
+.indent1{
+	padding-left:10px;
+}
+
+.indent2{
+	padding-left:20px;
+}
+
+.indent3{
+	padding-left:30px;
+}
+.indent5{
+	padding-left:50px;
+}
+
+label.control-label, table, p.s12{
+	font-size:1em;
+}
+p.s16{
+	font-size:15px;
+}
+.shadow {
+    text-shadow: black 0.11em 0.11em 0.21em;
+}
+.alert {
+   width:40%;    
+   position: fixed;
+   top: 60px;
+   right:10px;
+   z-index:99;
+}
+.fade {
+  opacity: 0;
+  -webkit-transition: opacity 0.15s linear;
+  -moz-transition: opacity 0.15s linear;
+  -o-transition: opacity 0.15s linear;
+  transition: opacity 0.15s linear;
+}
+.fade.in {
+  opacity: 1;
+}
+
+ul.nav li.dropdown:hover > ul.dropdown-menu {
+    display: block;    
+}
+
+.hideme
+{
+	display:none;
+}

@@ -1,0 +1,6 @@
+[28-Jul-2015 16:31:00 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/alert/public_html/disaster/application/petugas/controllers/petugas_control.php on line 402
+[28-Jul-2015 16:34:13 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/alert/public_html/disaster/application/petugas/controllers/petugas_control.php on line 402
+[28-Jul-2015 22:43:33 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/alert/public_html/disaster/application/petugas/controllers/petugas_control.php on line 402
+[28-Jul-2015 22:43:46 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/alert/public_html/disaster/application/petugas/controllers/petugas_control.php on line 402
+[28-Jul-2015 22:43:49 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/alert/public_html/disaster/application/petugas/controllers/petugas_control.php on line 402
+[07-Aug-2015 22:55:45 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/alert/public_html/disaster/application/petugas/controllers/petugas_control.php on line 402

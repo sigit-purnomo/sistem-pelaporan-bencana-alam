@@ -1,0 +1,54 @@
+[10-Jan-2016 10:58:41 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/alert/public_html/disaster/volunteer/application/models/m_login.php on line 36
+[10-Jan-2016 11:00:37 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/alert/public_html/disaster/volunteer/application/models/m_login.php on line 36
+[04-Mar-2016 00:39:23 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Format class does not support conversion from "php".' in /home/alert/public_html/disaster/volunteer/application/libraries/Format.php:51
+Stack trace:
+#0 /home/alert/public_html/disaster/volunteer/application/libraries/Format.php(31): Format->__construct('passlama=mmm&pa...', 'php')
+#1 /home/alert/public_html/disaster/volunteer/application/libraries/REST_Controller.php(189): Format->factory('passlama=mmm&pa...', 'php')
+#2 /home/alert/public_html/disaster/volunteer/application/controllers/api/user.php(6): REST_Controller->__construct()
+#3 /home/alert/public_html/disaster/volunteer/system/core/CodeIgniter.php(308): User->__construct()
+#4 /home/alert/public_html/disaster/volunteer/index.php(202): require_once('/home/alert/pub...')
+#5 {main}
+  thrown in /home/alert/public_html/disaster/volunteer/application/libraries/Format.php on line 51
+[04-Mar-2016 00:39:47 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Format class does not support conversion from "php".' in /home/alert/public_html/disaster/volunteer/application/libraries/Format.php:51
+Stack trace:
+#0 /home/alert/public_html/disaster/volunteer/application/libraries/Format.php(31): Format->__construct('passlama=mmm&pa...', 'php')
+#1 /home/alert/public_html/disaster/volunteer/application/libraries/REST_Controller.php(189): Format->factory('passlama=mmm&pa...', 'php')
+#2 /home/alert/public_html/disaster/volunteer/application/controllers/api/user.php(6): REST_Controller->__construct()
+#3 /home/alert/public_html/disaster/volunteer/system/core/CodeIgniter.php(308): User->__construct()
+#4 /home/alert/public_html/disaster/volunteer/index.php(202): require_once('/home/alert/pub...')
+#5 {main}
+  thrown in /home/alert/public_html/disaster/volunteer/application/libraries/Format.php on line 51
+[04-Mar-2016 00:40:09 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Format class does not support conversion from "php".' in /home/alert/public_html/disaster/volunteer/application/libraries/Format.php:51
+Stack trace:
+#0 /home/alert/public_html/disaster/volunteer/application/libraries/Format.php(31): Format->__construct('passlama=mm&pas...', 'php')
+#1 /home/alert/public_html/disaster/volunteer/application/libraries/REST_Controller.php(189): Format->factory('passlama=mm&pas...', 'php')
+#2 /home/alert/public_html/disaster/volunteer/application/controllers/api/user.php(6): REST_Controller->__construct()
+#3 /home/alert/public_html/disaster/volunteer/system/core/CodeIgniter.php(308): User->__construct()
+#4 /home/alert/public_html/disaster/volunteer/index.php(202): require_once('/home/alert/pub...')
+#5 {main}
+  thrown in /home/alert/public_html/disaster/volunteer/application/libraries/Format.php on line 51
+[10-Mar-2016 12:59:02 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/alert/public_html/disaster/volunteer/application/controllers/admin/c_pesan.php on line 43
+[12-Mar-2016 12:01:35 America/New_York] PHP Fatal error:  Call to a member function kirim_pesan() on a non-object in /home/alert/public_html/disaster/volunteer/application/controllers/admin/c_pesan.php on line 63
+[16-Mar-2016 01:00:49 America/New_York] PHP Fatal error:  Cannot redeclare M_relawan::show_relawanpos() in /home/alert/public_html/disaster/volunteer/application/models/admin/m_relawan.php on line 96
+[16-Mar-2016 01:00:58 America/New_York] PHP Fatal error:  Cannot redeclare M_relawan::show_relawanpos() in /home/alert/public_html/disaster/volunteer/application/models/admin/m_relawan.php on line 96
+[16-Mar-2016 01:03:33 America/New_York] PHP Fatal error:  Cannot redeclare M_relawan::show_relawanpos() in /home/alert/public_html/disaster/volunteer/application/models/admin/m_relawan.php on line 96
+[16-Mar-2016 08:41:10 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/alert/public_html/disaster/volunteer/application/views/petugas/v_pesan.php on line 113
+[16-Mar-2016 08:41:19 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/alert/public_html/disaster/volunteer/application/views/petugas/v_pesan.php on line 113
+[16-Mar-2016 08:41:30 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/alert/public_html/disaster/volunteer/application/views/petugas/v_pesan.php on line 113
+[16-Mar-2016 08:43:46 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/alert/public_html/disaster/volunteer/application/views/petugas/v_pesan.php on line 113
+[16-Mar-2016 08:48:47 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/alert/public_html/disaster/volunteer/application/views/petugas/v_pesan.php on line 112
+[18-Mar-2016 07:56:22 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/alert/public_html/disaster/volunteer/application/controllers/admin/c_pesan.php on line 115
+[18-Mar-2016 07:56:48 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/alert/public_html/disaster/volunteer/application/controllers/admin/c_pesan.php on line 115
+[18-Mar-2016 07:59:45 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/alert/public_html/disaster/volunteer/application/controllers/admin/c_pesan.php on line 114
+[18-Mar-2016 08:48:38 America/New_York] PHP Parse error:  syntax error, unexpected '$notice' (T_VARIABLE) in /home/alert/public_html/disaster/volunteer/application/controllers/admin/c_pesan.php on line 81
+[18-Mar-2016 08:50:11 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3072 bytes) in /home/alert/public_html/disaster/volunteer/system/core/Exceptions.php on line 182
+[18-Mar-2016 08:52:16 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3072 bytes) in /home/alert/public_html/disaster/volunteer/system/core/Exceptions.php on line 182
+[18-Mar-2016 08:54:18 America/New_York] PHP Fatal error:  Call to undefined function sendMessageThroughGCM() in /home/alert/public_html/disaster/volunteer/application/controllers/admin/c_pesan.php on line 82
+[18-Mar-2016 08:54:49 America/New_York] PHP Fatal error:  Call to undefined function sendMessageThroughGCM() in /home/alert/public_html/disaster/volunteer/application/controllers/admin/c_pesan.php on line 82
+[18-Mar-2016 08:59:10 America/New_York] PHP Fatal error:  Call to undefined function sendMessageThroughGCM() in /home/alert/public_html/disaster/volunteer/application/controllers/admin/c_pesan.php on line 82
+[18-Mar-2016 09:01:55 America/New_York] PHP Fatal error:  Call to undefined function sendMessageThroughGCM() in /home/alert/public_html/disaster/volunteer/application/controllers/admin/c_pesan.php on line 80
+[18-Mar-2016 09:23:33 America/New_York] PHP Fatal error:  Call to undefined function sendMessageThroughGCM() in /home/alert/public_html/disaster/volunteer/application/controllers/admin/c_pesan.php on line 80
+[18-Mar-2016 09:25:11 America/New_York] PHP Fatal error:  Call to undefined function sendMessageThroughGCM() in /home/alert/public_html/disaster/volunteer/application/controllers/admin/c_pesan.php on line 80
+[18-Mar-2016 13:47:49 America/New_York] PHP Fatal error:  Call to undefined function sendMessageThroughGCM() in /home/alert/public_html/disaster/volunteer/application/controllers/admin/c_pesan.php on line 85
+[18-Mar-2016 13:48:25 America/New_York] PHP Fatal error:  Call to undefined function sendMessageThroughGCM() in /home/alert/public_html/disaster/volunteer/application/controllers/admin/c_pesan.php on line 84
+[18-Mar-2016 15:01:39 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/alert/public_html/disaster/volunteer/application/controllers/admin/c_pesan.php on line 87

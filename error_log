@@ -1,0 +1,16 @@
+[23-Jul-2015 09:31:21 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alert/public_html/disaster/application/aten/models/account_model.php on line 20
+[23-Jul-2015 09:32:10 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alert/public_html/disaster/application/aten/models/account_model.php on line 20
+[23-Jul-2015 09:39:17 America/New_York] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/alert/public_html/disaster/application/aten/models/account_model.php on line 20
+[23-Jul-2015 09:40:36 America/New_York] PHP Parse error:  syntax error, unexpected '>' in /home/alert/public_html/disaster/application/aten/models/account_model.php on line 20
+[23-Jul-2015 09:41:13 America/New_York] PHP Parse error:  syntax error, unexpected '>' in /home/alert/public_html/disaster/application/aten/models/account_model.php on line 20
+[23-Jul-2015 09:42:31 America/New_York] PHP Parse error:  syntax error, unexpected '>' in /home/alert/public_html/disaster/application/aten/models/account_model.php on line 20
+[23-Jul-2015 09:42:47 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alert/public_html/disaster/application/aten/models/account_model.php on line 20
+[23-Jul-2015 09:47:33 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alert/public_html/disaster/application/aten/models/account_model.php on line 21
+[23-Jul-2015 09:48:37 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alert/public_html/disaster/application/aten/models/laporan.php on line 81
+[23-Jul-2015 09:48:43 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alert/public_html/disaster/application/aten/models/peta.php on line 126
+[23-Jul-2015 09:48:50 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alert/public_html/disaster/application/aten/models/peta.php on line 126
+[23-Jul-2015 09:51:32 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/alert/public_html/disaster/application/aten/models/account_model.php on line 36
+[23-Jul-2015 09:52:49 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alert/public_html/disaster/application/aten/models/account_model.php on line 24
+[23-Jul-2015 09:53:20 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alert/public_html/disaster/application/aten/models/account_model.php on line 24
+[23-Jul-2015 09:53:52 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alert/public_html/disaster/application/aten/models/account_model.php on line 24
+[23-Jul-2015 09:54:41 America/New_York] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alert/public_html/disaster/application/aten/models/account_model.php on line 26
