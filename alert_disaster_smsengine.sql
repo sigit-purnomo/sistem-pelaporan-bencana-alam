@@ -330,16 +330,8 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id_user`, `id_role`, `username`, `password`, `no_hp`, `nama_lengkap`, `status`) VALUES
-(1, 3, 'admin', '21232f297a57a5a743894a0e4a801fc3', '+-', 'Admin', 1),
-(2, 1, 'ledo', '04d36dcb24f257bc084aee366e3d1df6', '+-', 'Doni Salim', 1),
-(3, 2, 'wit', '26f6bd393df766642c4e6215573c6059', '+-', 'Wiratno', 0),
-(4, 2, 'irvanerizal', '827ccb0eea8a706c4c34a16891f84e7b', '+-', 'Irvan Erwan Rizal', 1),
-(5, 1, 'tiara', '827ccb0eea8a706c4c34a16891f84e7b', '+-', 'Tiara Laras', 1),
-(6, 2, 'nanat', '827ccb0eea8a706c4c34a16891f84e7b', '+-', 'Nana Tambayong', 1),
-(7, 2, 'ulina', 'ccef8f5a62705f14f67cef66902e559c', '+-', 'Pricillia Ulina', 1),
-(8, 2, 'aditbud', '827ccb0eea8a706c4c34a16891f84e7b', '+-', 'Aditya Budiman', 1),
-(9, 2, 'yudoo', '827ccb0eea8a706c4c34a16891f84e7b', '+-', 'Euodia Yudo', 1),
-(10, 2, 'tyomarius', '827ccb0eea8a706c4c34a16891f84e7b', '+-', 'Yohanes Marius', 1);
+(1, 3, 'admin', '827ccb0eea8a706c4c34a16891f84e7b', '+-', 'Admin', 1),
+
 
 --
 -- Indexes for dumped tables
