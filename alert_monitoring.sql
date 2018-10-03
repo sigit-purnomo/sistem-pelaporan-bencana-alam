@@ -586,36 +586,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id_user`, `reg_id`, `username`, `password`, `no_hp`, `nama_lengkap`, `status`, `id_role`) VALUES
-(1, '', 'admin', '3e6a171287884fb1e7fd1d7990827fe0', '+-', 'Administrator', 0, 1),
-(2, '', 'hanaeka1201', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Hana Eka H', 0, 2),
-(5, '', 'relawan2', '735735aa594d4a2eda923d866879d5f2', '+-', 'Bernard B', 0, 3),
-(21, '', 'bertha123', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Bertha L. P. P', 0, 2),
-(35, '', 'petugas', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Hana Yanita', 0, 2),
-(41, '', 'axisrel', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Ananto Lesmana ', 0, 3),
-(44, '', 'siskam', '08b5411f848a2581a41672a759c87380', '+-', 'Siska Mariana', 0, 3),
-(45, '', 'levina', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Apriyani Levina', 0, 3),
-(46, '', 'hanayanita', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Hana Yanita', 0, 3),
-(48, '', 'irmakezi', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Irma Kezia', 0, 3),
-(60, '', 'eliadi', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Eliadi Karmel', 0, 2),
-(61, '', 'ememer', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Meilisa Maria', 0, 2),
-(62, '', 'gyanirma', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Irmagian Paleon', 0, 2),
-(63, '', 'ciklee', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Levina Apriyani', 0, 2),
-(64, '', 'tiertjenny', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Jenny Tiert', 0, 2),
-(65, '', 'laskarkeladi', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Febriani Sibi', 0, 2),
-(96, '', 'marrapa', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Maria Rapa', 0, 3),
-(97, '', 'mandados', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Manda Tanne', 0, 3),
-(98, '', 'Isabela94', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Ni Putu Isabela Meita P', 0, 3),
-(99, '', 'rouwrouw', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Rouwvalth Rummaseuw', 0, 3),
-(108, '', 'rumybryan', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Bryan Rumy', 0, 3),
-(139, '', 'chandrain', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Chandra Iriani', 1, 2),
-(140, '', 'nanamaria123', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Nana Maria', 0, 3),
-(141, '', 'bostondeda', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Charles Adrian ', 0, 3),
-(142, '', 'kezirma', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Kezia Irma', 0, 2),
-(143, '', 'gian1234', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Gian Paleon ', 0, 2),
-(144, '', 'amini1011', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Amini Tianlean', 0, 2),
-(145, '', 'mmr1234', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Meilisa Maria Rapa ', 0, 2),
-(146, '', 'vinalevi12', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Levina Vina', 0, 2),
-(147, 'cSp3DW7CiaE:APA91bGAYiGBVmxNFI5sym0_WMHWkXLqQvC8q-r1BmIfhyAGOpV8tqxemWQ843aKISSPsG3OAWuuxrfX_v5IS5Y0Y1PKOrD3TgVldTHMNwuEs_x39v1PqYwgZyzahVa421A2DRPpO9qq', 'eddyjul', '89948c7f4890af5ff18524b4fc3f3611', '+-', 'Eddy Julianto', 0, 3);
+(1, '', 'admin', '827ccb0eea8a706c4c34a16891f84e7b', '+-', 'Administrator', 0, 1),
 
 --
 -- Indexes for dumped tables
